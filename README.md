@@ -1,3 +1,5 @@
+https://labclient.labondemand.com/LabClient/4407e7ca-5986-4669-8151-4fe76b14ea49?rc=10
+
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
